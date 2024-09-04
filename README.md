@@ -53,6 +53,7 @@ El modelo con mejor rendimiento (CatBoost Classifier) se encuentra guardado en `
 
 ## Resultados
 Los resultados detallados, incluyendo métricas de rendimiento y visualizaciones, se encuentran en el directorio `results/`.
+Para una descripción contextualizada acceda al [Artículo](https://github.com/AxelSkrauba/queen-bee-status/blob/main/Articulo%20BeeHive.pdf).
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abra un issue para discutir cambios importantes antes de crear un pull request.
