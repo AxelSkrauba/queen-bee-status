@@ -44,8 +44,8 @@ El conjunto de datos utilizado en este estudio proviene del Smart Bee Colony Mon
 1. `1_data_exploration.ipynb`: Análisis exploratorio de los datos de audio y visualización de espectrogramas.
 2. `2_feature_extraction.ipynb`: Extracción de características MFCC de los archivos de audio.
 3. `3_model_training.ipynb`: Entrenamiento y evaluación de modelos de clasificación iniciales.
-4. `4_pipeline_optimization.ipynb`: Optimización del pipeline de procesamiento y entrenamiento.
-5. `5_label_correction.ipynb`: Implementación de Cleanlab para la corrección de etiquetas.
+4. `4_label_correction.ipynb`: Implementación de Cleanlab para la corrección de etiquetas.
+5. `5_pipeline_optimization.ipynb`: Pipeline de procesamiento y entrenamiento con etiquetas corregidas.
 
 ## Modelos
 
