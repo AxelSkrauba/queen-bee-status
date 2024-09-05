@@ -16,8 +16,8 @@ Este proyecto aplica técnicas avanzadas de machine learning para clasificar el 
 │   ├── 1_data_exploration.ipynb
 │   ├── 2_feature_extraction.ipynb
 │   ├── 3_model_training.ipynb
-│   ├── 4_pipeline_optimization.ipynb
-│   └── 5_label_correction.ipynb
+│   ├── 4_label_correction.ipynb
+│   └── 5_pipeline_optimization.ipynb
 ├── models/
 │   └── best_model.pkl       # Modelo entrenado con mejor rendimiento
 ├── results/
